@@ -1,4 +1,4 @@
- welcome to my very first public data analytics project, in which I'll get some information
+Welcome to my very first public data analytics project, in which I'll get some information
 about the data science current job warket. 
 
 I uploaded a database from a course which proved to be very unseful to me, in this first
