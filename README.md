@@ -76,7 +76,7 @@ WHERE job_work_from_home = 'true'
  LIMIT 10;
 ```
 
-![02.query1](assets_pics\02.query1.png)
+![02.query1](assets_pics/02.query1.png)
 
 
 
