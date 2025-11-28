@@ -183,7 +183,7 @@ ORDER BY n_vacancies_where_required DESC
 
 ```
 
-![02.query1](assets_pics\04.query.png)
+![02.query1](assets_pics/04.query.png)
 
 
 ▌5.  Look at the average salary associated with each skill for Data Analyst positions
@@ -210,7 +210,7 @@ GROUP BY a.skills
 ORDER BY avg_salary DESC
 LIMIT 25;
 ```
-![05query](assets_pics\05.query.png)
+![05query](assets_pics/05.query.png)
 
 ▌6. Most optimal skills to learn. I'll combine the querries in order to have te relation between skills that are well payed and skills that are more in demand.
 from file 4 and file 5 as CTEs
@@ -257,7 +257,7 @@ USING (skills)
 ORDER BY n_vacancies_where_required DESC, avg_salary DESC;
 
 ```
-![06.query](assets_pics\06.query.png)
+![06.query](assets_pics/06.query.png)
 
 # WHAT I LEARNT
 
