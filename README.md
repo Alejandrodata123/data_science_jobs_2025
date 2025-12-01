@@ -128,10 +128,9 @@ SELECT a.job_id, a.company,
 
 FROM second_cte AS a
 INNER JOIN skills_dim AS b
-USING (skill_id)
+USING (skill_id);
 ```
 
-;
 
  All in all, the top tier data analytic vacancies ask for a lot of skills as well as expertise I'm sure, when it comes to 
 the skills I'll state here the top 5 vacancies and the skills they demand in a candidate
